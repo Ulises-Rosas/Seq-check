@@ -6,7 +6,7 @@ Find specific sequences between reads from a fastq file can help us to detect po
 
 This script uses fastq file as input. There are four fastq files in this repository (i.e. [file1.fastq](https://github.com/Ulises-Rosas/Seq-check/blob/master/file1.fastq), [file2.fastq](https://github.com/Ulises-Rosas/Seq-check/blob/master/file2.fastq), [file3.fastq](https://github.com/Ulises-Rosas/Seq-check/blob/master/file3.fastq), [file4.fastq](https://github.com/Ulises-Rosas/Seq-check/blob/master/file4.fastq)) which will be used for conducting a test of the script. For instance, the `head` command shows the first 10 lines of the [file1.fastq](https://github.com/Ulises-Rosas/Seq-check/blob/master/file1.fastq):
 
-```
+```Linux
 $ head file1.fastq
 @read##
 CCGCGGCTGCTGGCACAGAGTTAGCCGGTGCTTATTCCGCCGGTACCGTCAAGGCACACA
