@@ -32,7 +32,8 @@ $ ls
 fast_screening.sh  file1.fastq  file2.fastq  file3.fastq  file4.fastq 
 ```
 and upon running the fast_screening.sh script, we should obtain results like these:
-```
+
+```Bash
 $ bash fast_screening.sh -s "^CCGCGGCTGCTGGG" *.fastq
 file4.fastq:	88	30	34.090
 file3.fastq:	43	9	20.930
