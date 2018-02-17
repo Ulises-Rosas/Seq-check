@@ -1,6 +1,6 @@
 # Seq-check
 
-Find specific sequences between reads from a fastq file can help us to detect possible sources of contamination after sequence retrieving (e.g. fastq files). Obtaing the presence of abundant short squences on early analyses accelerates dessisions towards another procedures. A simple bash script is presented in order to quickly earn insights about possible over-represented sequences
+Find specific sequences between reads from a fastq file can help us to detect possible sources of contamination after sequence retrieving (e.g. fastq files). Obtaing the presence of abundant short squences (e.g. primers from amplicon sequencing) on early analyses accelerates dessisions towards another procedures. A simple bash script is presented in order to quickly earn insights about possible over-represented sequences
 
 ## Usage
 
